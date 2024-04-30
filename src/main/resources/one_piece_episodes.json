@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "number": 1,
+        "title": "Eu sou Luffy! O homem que se tornará o Rei dos Piratas!",
+        "duration": 20,
+        "release_date": "1999-10-20"
+    },
+    {
+        "id": 2,
+        "number": 2,
+        "title": "O garoto que comeu uma fruta do diabo",
+        "duration": 20,
+        "release_date": "1999-10-27"
+    },
+    {
+        "id": 3,
+        "number": 3,
+        "title": "Morgan versus Luffy! Quem é a misteriosa garota bonita?",
+        "duration": 20,
+        "release_date": "1999-11-03"
+    },
+    {
+        "id": 4,
+        "number": 4,
+        "title": "Luffy escapa! Navio de pirata ataque do capitão de mão de ferro!",
+        "duration": 20,
+        "release_date": "1999-11-10"
+    },
+    {
+        "id": 5,
+        "number": 5,
+        "title": "Batalha! Zoro vs. Cabaji, o malabarista!",
+        "duration": 20,
+        "release_date": "1999-11-17"
+    },
+    {
+        "id": 6,
+        "number": 6,
+        "title": "Protejam a cidade de tangerinas! Os Piratas do Chapéu de Palha capturados!",
+        "duration": 20,
+        "release_date": "1999-11-24"
+    },
+    {
+        "id": 7,
+        "number": 7,
+        "title": "O passado de Luffy! A decisão de se tornar o Rei dos Piratas!",
+        "duration": 20,
+        "release_date": "1999-12-01"
+    },
+    {
+        "id": 8,
+        "number": 8,
+        "title": "Quem é aquele? O homem misterioso e bonito e o aterrorizante atirador de elite!",
+        "duration": 20,
+        "release_date": "1999-12-08"
+    },
+    {
+        "id": 9,
+        "number": 9,
+        "title": "A grande ameaça! O guarda-costas de cobre!",
+        "duration": 20,
+        "release_date": "1999-12-15"
+    },
+    {
+        "id": 10,
+        "number": 10,
+        "title": "O terror do Homem Peixe! Arlong, o chefe do bando dos piratas Homem Peixe!",
+        "duration": 20,
+        "release_date": "1999-12-22"
+    }
+]

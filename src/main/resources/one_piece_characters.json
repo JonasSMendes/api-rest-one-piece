@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Monkey D. Luffy",
+        "role": "Capitão",
+        "description": "O protagonista da série e capitão dos Piratas do Chapéu de Palha."
+    },
+    {
+        "id": 2,
+        "name": "Roronoa Zoro",
+        "role": "Esgrimista",
+        "description": "O espadachim habilidoso e vice-capitão dos Piratas do Chapéu de Palha."
+    },
+    {
+        "id": 3,
+        "name": "Nami",
+        "role": "Navegadora",
+        "description": "A navegadora dos Piratas do Chapéu de Palha e especialista em meteorologia."
+    },
+    {
+        "id": 4,
+        "name": "Usopp",
+        "role": "Atirador",
+        "description": "O atirador e mestre das mentiras dos Piratas do Chapéu de Palha."
+    },
+    {
+        "id": 5,
+        "name": "Sanji",
+        "role": "Cozinheiro",
+        "description": "O cozinheiro e especialista em artes marciais dos Piratas do Chapéu de Palha."
+    },
+    {
+        "id": 6,
+        "name": "Tony Tony Chopper",
+        "role": "Médico",
+        "description": "O médico e rena falante dos Piratas do Chapéu de Palha."
+    },
+    {
+        "id": 7,
+        "name": "Nico Robin",
+        "role": "Arqueóloga",
+        "description": "A arqueóloga e historiadora dos Piratas do Chapéu de Palha."
+    },
+    {
+        "id": 8,
+        "name": "Franky",
+        "role": "Carpinteiro",
+        "description": "O carpinteiro e cyborg dos Piratas do Chapéu de Palha."
+    },
+    {
+        "id": 9,
+        "name": "Brook",
+        "role": "Músico",
+        "description": "O músico esqueletico e espadachim dos Piratas do Chapéu de Palha."
+    },
+    {
+        "id": 10,
+        "name": "Jinbe",
+        "role": "Timoneiro",
+        "description": "O timoneiro e ex-Capitão dos Piratas do Sol."
+    }
+]
