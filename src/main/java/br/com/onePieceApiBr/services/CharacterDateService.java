@@ -13,7 +13,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class CharacterDateService {
 
     private final ObjectMapper mapper = new ObjectMapper();
-    private final File charactersFile = new File("src/main/resources/one_piece_characters.json");
+    private final File charactersFile = new File("one_piece_characters.json");
 
     @SuppressWarnings("unchecked")
     public List<Map<String, Object>> getAllCharacters() throws IOException {

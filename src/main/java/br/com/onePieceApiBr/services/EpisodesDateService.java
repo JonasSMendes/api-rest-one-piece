@@ -13,7 +13,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class EpisodesDateService {
 
     private final ObjectMapper mapper = new ObjectMapper();
-    private final File episodesFile = new File("src/main/resources/one_piece_episodes.json");
+    private final File episodesFile = new File("one_piece_episodes.json");
 
     @SuppressWarnings("unchecked")
     public List<Map<String, Object>> getAllEpisodes() throws IOException {
