@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import br.com.onePieceApiBr.services.CharacterDateService;
 
 @RestController
-@RequestMapping("/onepiece")
+@RequestMapping("/")
 public class CharacterController {
 
     private final CharacterDateService characterDateService;
@@ -20,7 +20,7 @@ public class CharacterController {
         this.characterDateService = characterDateService;
     }
 
-    @GetMapping("/character")
+    @GetMapping("character")
     List<Map<String, Object>> getAllCharacter() throws IOException {
         return characterDateService.getAllCharacters();
     }

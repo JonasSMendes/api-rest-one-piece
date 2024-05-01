@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 import br.com.onePieceApiBr.services.EpisodesDateService;
 
 @RestController
-@RequestMapping("/onepiece")
+@RequestMapping("/")
 public class EpisodeController {
 
     private final EpisodesDateService episodesDateService;
@@ -20,7 +20,7 @@ public class EpisodeController {
         this.episodesDateService = episodesDateService;
     }
 
-    @GetMapping("/episodes")
+    @GetMapping("episodes")
     public List<Map<String, Object>> getAllEpisodes() throws IOException {
         return episodesDateService.getAllEpisodes();
     }
